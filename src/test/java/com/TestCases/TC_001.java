@@ -13,5 +13,9 @@ public class TC_001 extends CBT{
 		System.out.println(inf.get("ID"));
 
 	}
+	@Test
+	public void m1() {
+		System.out.println("I am m1 method");
+	}
 
 }
